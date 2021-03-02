@@ -1,2 +1,3 @@
 Hello world by master!!
 Hello world by master again!!
+Hello world by conflict-resolution-branch!!
