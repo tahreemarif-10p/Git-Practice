@@ -4,3 +4,4 @@ Hello world by conflict-resolution-branch!!
 
 
 Changes in the file by master.
+Conflict-resolution branch modified the file again!!
